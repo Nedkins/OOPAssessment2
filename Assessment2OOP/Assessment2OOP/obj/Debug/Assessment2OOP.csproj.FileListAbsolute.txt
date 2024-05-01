@@ -1,0 +1,7 @@
+G:\University Work\Year 1\Semester 2\Alg And Complex\Assessment2OOP\Assessment2OOP\bin\Debug\Assessment2OOP.exe.config
+G:\University Work\Year 1\Semester 2\Alg And Complex\Assessment2OOP\Assessment2OOP\bin\Debug\Assessment2OOP.exe
+G:\University Work\Year 1\Semester 2\Alg And Complex\Assessment2OOP\Assessment2OOP\bin\Debug\Assessment2OOP.pdb
+G:\University Work\Year 1\Semester 2\Alg And Complex\Assessment2OOP\Assessment2OOP\obj\Debug\Assessment2OOP.csproj.AssemblyReference.cache
+G:\University Work\Year 1\Semester 2\Alg And Complex\Assessment2OOP\Assessment2OOP\obj\Debug\Assessment2OOP.csproj.CoreCompileInputs.cache
+G:\University Work\Year 1\Semester 2\Alg And Complex\Assessment2OOP\Assessment2OOP\obj\Debug\Assessment2OOP.exe
+G:\University Work\Year 1\Semester 2\Alg And Complex\Assessment2OOP\Assessment2OOP\obj\Debug\Assessment2OOP.pdb
